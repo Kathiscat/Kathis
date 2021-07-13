@@ -964,11 +964,11 @@ Egenkomponerad musik
             <a href="details/550.html" title="Insatiable">Insatiable</a>
           </td>
           <td valign="top">
-            <a href="details/300.html" title="Inte f&#246;r Vinnings Skull" id="thumbimage">
+            <a href="details/300.html" title="Inte För Vinnings Skull" id="thumbimage">
               <img src="images2/300t.jpg"/>
             </a>
             <br/>
-            <a href="details/300.html" title="Inte f&#246;r Vinnings Skull">Inte f&#246;r Vinnings Skull</a>
+            <a href="details/300.html" title="Inte För Vinnings Skull">Inte För Vinnings Skull</a>
           </td>
           <td valign="top">
             <a href="details/552.html" title="Intelligence" id="thumbimage">
