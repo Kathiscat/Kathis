@@ -965,7 +965,7 @@ Egenkomponerad musik
           </td>
           <td valign="top">
             <a href="details/300.html" title="Inte f&#246;r Vinnings Skull" id="thumbimage">
-              <img src="images/300t.jpg"/>
+              <img src="images2/300t.jpg"/>
             </a>
             <br/>
             <a href="details/300.html" title="Inte f&#246;r Vinnings Skull">Inte f&#246;r Vinnings Skull</a>
