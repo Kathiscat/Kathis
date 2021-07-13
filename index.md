@@ -35,14 +35,14 @@ Egenkomponerad musik
         <tr>
           <td valign="top">
             <a href="details/290.html" title="9-1-1: Lone Star" id="thumbimage">
-              <img src="images/290t.jpg"/>
+              <img src="290t.jpg"/>
             </a>
             <br/>
             <a href="details/290.html" title="9-1-1: Lone Star">9-1-1: Lone Star</a>
           </td>
           <td valign="top">
             <a href="details/292.html" title="11.22.63" id="thumbimage">
-              <img src="images/292t.jpg"/>
+              <img src="292t.jpg"/>
             </a>
             <br/>
             <a href="details/292.html" title="11.22.63">11.22.63</a>
