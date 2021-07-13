@@ -49,13 +49,13 @@ Egenkomponerad musik
           </td>
           <td valign="top">
             <a href="details/294.html" title="21 Jump Street" id="thumbimage">
-              <img src="images/294t.jpg"/>
+              <img src="294t.jpg"/>
             </a>
             <br/>
             <a href="details/294.html" title="21 Jump Street">21 Jump Street</a>
           </td>
           <td valign="top">
-            <a href="details/296.html" title="A Discovery of Witches" id="thumbimage">
+            <a href="296.html" title="A Discovery of Witches" id="thumbimage">
               <img src="images/images/296t.jpg"/>
             </a>
             <br/>
