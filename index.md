@@ -26,42 +26,42 @@ Egenkomponerad musik
   </HEAD>
   <BODY>
     <div align="center">
-      <span class="title">Tv Shows</span>
+      <span class="title">Tv Serier</span>
       <div class="navigation" align="center"></div>
       <br/>
       <table>
         <tr>
           <td valign="top">
             <a href="details/290.html" title="9-1-1: Lone Star" id="thumbimage">
-              <img src="290t.jpg"/>
+              <img src="images/290t.jpg"/>
             </a>
             <br/>
             <a href="details/290.html" title="9-1-1: Lone Star">9-1-1: Lone Star</a>
           </td>
           <td valign="top">
             <a href="details/292.html" title="11.22.63" id="thumbimage">
-              <img src="292t.jpg"/>
+              <img src="images/292t.jpg"/>
             </a>
             <br/>
             <a href="details/292.html" title="11.22.63">11.22.63</a>
           </td>
           <td valign="top">
             <a href="details/294.html" title="21 Jump Street" id="thumbimage">
-              <img src="294t.jpg"/>
+              <img src="images/294t.jpg"/>
             </a>
             <br/>
             <a href="details/294.html" title="21 Jump Street">21 Jump Street</a>
           </td>
           <td valign="top">
             <a href="296.html" title="A Discovery of Witches" id="thumbimage">
-              <img src="296t.jpg"/>
+              <img src="images/296t.jpg"/>
             </a>
             <br/>
             <a href="details/296.html" title="A Discovery of Witches">A Discovery of Witches</a>
           </td>
           <td valign="top">
             <a href="details/304.html" title="Ack V&#228;rmland" id="thumbimage">
-              <img src="images/images304t.jpg"/>
+              <img src="images/304t.jpg"/>
             </a>
             <br/>
             <a href="details/304.html" title="Ack V&#228;rmland">Ack V&#228;rmland</a>
