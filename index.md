@@ -20,7 +20,7 @@ Egenkomponerad musik
 
 <html>
   <HEAD>
-    <LINK REL="StyleSheet" TYPE="text/css" HREF="exportindex_item_customlist.css"></LINK>
+    <LINK REL="StyleSheet" TYPE="text/css" HREF=""></LINK>
     <META http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <TITLE>Tv Shows</TITLE>
   </HEAD>
