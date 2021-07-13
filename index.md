@@ -3,7 +3,7 @@
 Filmer
 
 Tv Serier <a href="sidor/tv.html"/>
-              <img src="images/290t.jpg"/>
+            
 
 Tecknat
 
