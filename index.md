@@ -2,7 +2,7 @@
 
 Filmer
 
-Tv Serier <a href="sidor/tv.html" title="Tv Serier" id="thumbimage">
+Tv Serier <a href="sidor/tv.html"/>
               <img src="images/290t.jpg"/>
 
 Tecknat
