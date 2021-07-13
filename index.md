@@ -56,7 +56,7 @@ Egenkomponerad musik
           </td>
           <td valign="top">
             <a href="296.html" title="A Discovery of Witches" id="thumbimage">
-              <img src="images/images/296t.jpg"/>
+              <img src="296t.jpg"/>
             </a>
             <br/>
             <a href="details/296.html" title="A Discovery of Witches">A Discovery of Witches</a>
