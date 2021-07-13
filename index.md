@@ -56,14 +56,14 @@ Egenkomponerad musik
           </td>
           <td valign="top">
             <a href="details/296.html" title="A Discovery of Witches" id="thumbimage">
-              <img src="images/296t.jpg"/>
+              <img src="images/images/296t.jpg"/>
             </a>
             <br/>
             <a href="details/296.html" title="A Discovery of Witches">A Discovery of Witches</a>
           </td>
           <td valign="top">
             <a href="details/304.html" title="Ack V&#228;rmland" id="thumbimage">
-              <img src="images/304t.jpg"/>
+              <img src="images/images304t.jpg"/>
             </a>
             <br/>
             <a href="details/304.html" title="Ack V&#228;rmland">Ack V&#228;rmland</a>
