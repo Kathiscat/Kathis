@@ -1,8 +1,8 @@
 body {
 	font-family: Arial;
-	font-size: 8pt;
-	color: #ffff;
-	background-color: #012401;
+	font-size: 12pt;
+	color: #FFFFFF;
+	background-color: #000000;
 }
 
 .title {
@@ -13,7 +13,7 @@ body {
 
 td {
 	font-family: Arial;
-	font-size: 8pt;
+	font-size: 10pt;
 	text-align: center;	
 	color: #FFFFFF;
 	background-color: #000000;
